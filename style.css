@@ -1,0 +1,77 @@
+
+
+
+
+h1{
+  font-size: 36px;
+  font-weight: bold;
+  padding: 10%;
+}
+h2{
+  font-size: 36px;
+  padding: 5%;
+  color: #5585b5;
+}
+h3{
+  font-size: 25px;
+  color: #53a8b6;
+}
+h4{
+  font-size: 16px;
+}
+
+
+
+#about{
+  background-color:  #79c2d0;
+  color: white;
+  padding: 10% 5% 25%;
+  text-align: center;
+
+}
+/* News */
+#news{
+  padding: 10%;
+  background-color: white;
+  text-align: center;
+}
+.photo-news{
+  width: 200px;
+}
+
+/* Webinars */
+
+#webinars{
+  background-color: #bbe4e9;
+  text-align: center;
+  padding: 15%;
+
+}
+#carouselExampleIndicators{
+  padding: 15%;
+}
+
+
+
+
+
+/* Contacts */
+
+#contacts{
+  background-color: #5585b5;
+  text-align: center;
+  padding: 10%;
+
+}
+.links{
+  color: #bbe4e9;
+}
+.links:hover{
+  background-color: #FFFFFF;
+}
+/* Donate */
+
+#donate{
+  text-align: center;
+  padding: 20%;
+}
